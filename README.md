@@ -151,7 +151,7 @@
 
         <!-- Image -->
         <div class="image-block">
-            <img src="https://github.com/Alex-esc1/Alex-esc1.github.io/blob/main/job.jpeg?raw=true"
+            <img src="https://raw.githubusercontent.com/Alex-esc1/Alex-esc1.github.io/refs/heads/main/job.png"
                 alt="Game Dev Image">
         </div>
         <!-- Name and Title -->
@@ -179,28 +179,28 @@
         <div class="game">
             <a href="https://play.google.com/store/apps/details?id=com.shilenkov.periodic_table_atom_guide"
                 target="_blank">
-                <img src="https://github.com/Alex-esc1/Alex-esc1.github.io/blob/main/pt.png?raw=true"
+                <img src="https://raw.githubusercontent.com/Alex-esc1/Alex-esc1.github.io/refs/heads/main/pt.png"
                     alt="Periodic Table">
             </a>
             <p>Periodic Table - Atom Guide</p>
         </div>
         <div class="game">
             <a href="https://play.google.com/store/apps/details?id=com.shilenkov.prank_smash" target="_blank">
-                <img src="https://github.com/Alex-esc1/Alex-esc1.github.io/blob/main/prank.png?raw=true"
+                <img src="https://raw.githubusercontent.com/Alex-esc1/Alex-esc1.github.io/refs/heads/main/prank.png"
                     alt="Prank Smash">
             </a>
             <p>Prank Smash</p>
         </div>
         <div class="game">
             <a href="https://play.google.com/store/apps/details?id=com.shilenkov.pop_bubbles" target="_blank">
-                <img src="https://github.com/Alex-esc1/Alex-esc1.github.io/blob/main/pop.png?raw=true"
+                <img src="https://raw.githubusercontent.com/Alex-esc1/Alex-esc1.github.io/refs/heads/main/pop.png"
                     alt="Pop Bubbles">
             </a>
             <p>Pop Bubbles</p>
         </div>
         <div class="game">
             <a href="https://play.google.com/store/apps/details?id=com.shilenkov.pink_calculator" target="_blank">
-                <img src="https://github.com/Alex-esc1/Alex-esc1.github.io/blob/main/calc.png?raw=true"
+                <img src="https://raw.githubusercontent.com/Alex-esc1/Alex-esc1.github.io/refs/heads/main/calc.png"
                     alt="Pink Calculator">
             </a>
             <p>Pink Calculator</p>
